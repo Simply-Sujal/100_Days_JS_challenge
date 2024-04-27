@@ -1,1 +1,1 @@
-``` 100 Days of JavaScript Coding Challenges ```
+# 100 Days of JavaScript Coding Challenges
